@@ -1,1 +1,1 @@
-# poisson_1d
+# Solving 1D Poisson Equation using PINNs

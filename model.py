@@ -1,0 +1,3 @@
+'''
+PINN model architecture
+'''
